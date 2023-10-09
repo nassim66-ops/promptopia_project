@@ -12,3 +12,5 @@ Some other packages:
 
 --> bcrypt: this one to hash the password when storing it in the database
 --> next-auth: This is for the authentication in the project
+
+NOTE: You can use the styles and the gradients styles in the globals.css file, there is a lot of custom css you can use
